@@ -1,0 +1,9 @@
+Proyecto final
+
+En este problema se necesita que una aseguradora de varias cotizciones al día, 
+así a la aseguradora puede atender a sus cliente fieles y clientes nuevos.
+Debemos cambiar algunos para metros, y poder ver si la persona es mayoy de edad
+si tiene hijos o esta casado y poder arrijar el valor final.
+
+Se necesita cambiar las operaciones dependiento lo que ingrese el usuario y poder
+complacer al usuario y que sea facil de entender y consiso lo que se pide. 
